@@ -1,8 +1,5 @@
 # 🚀 Production-Grade Microservices DevOps Project
 
-Below is a complete **industry-level repository structure + starter code templates** you can directly push to GitHub and showcase on Upwork.
-
----
 
 # 📁 Project Structure
 
