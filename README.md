@@ -1,4 +1,4 @@
-# 🚀 Production-Grade Microservices DevOps Project (GitHub Ready)
+# 🚀 Production-Grade Microservices DevOps Project
 
 Below is a complete **industry-level repository structure + starter code templates** you can directly push to GitHub and showcase on Upwork.
 
@@ -196,18 +196,6 @@ jobs:
         run: kubectl apply -f k8s-manifests/
 ```
 
----
-
-# 📸 screenshots/
-
-Include:
-
-* AWS EKS cluster
-* Grafana dashboard
-* CI/CD pipeline success
-* Kubernetes pods running
-
----
 
 # 💥 What this proves to recruiters
 
@@ -217,12 +205,4 @@ Include:
 ✔ Infrastructure as Code (Terraform)
 ✔ CI/CD automation
 ✔ Monitoring & logging
----
-# 🚀 Next Level Upgrade (optional)
 
-Add:
-
-* ArgoCD (GitOps)
-* Helm charts
-* Multi-environment setup (dev/staging/prod)
-* Service mesh (Istio)
